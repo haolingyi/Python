@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/hly/PyTorch/anaconda3/envs/pytorch/bin/python",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
+}
